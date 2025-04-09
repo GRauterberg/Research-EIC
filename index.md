@@ -2,4 +2,4 @@ Welcome! I am a law professor at the University of Michigan. While most of my re
 
 Stay tuned! I hope to use this site to showcase the  work of UM undergraduates in the School of Information. They are helping to make amazing pieces of 17th century economic history legible and machine readable for a modern audience.
 
-![Picture of EIC Indenture](assets/Picture1.jpg)
+![Picture of EIC Indenture](Picture1.jpg)
